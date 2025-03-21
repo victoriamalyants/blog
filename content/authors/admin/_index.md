@@ -109,7 +109,7 @@ languages:
   - name: Russian
     percent: 100
   - name: English
-    percent: 100
+    percent: 90
   - name: Chinese
     percent: 25
   - name: Spanish
