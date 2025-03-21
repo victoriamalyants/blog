@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Студент
+role: Студент ФФМИЕН РУДН, Москва
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
