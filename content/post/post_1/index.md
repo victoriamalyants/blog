@@ -1,7 +1,7 @@
 ---
 title: Прошедшая неделя
 summary: 
-date: 2023-03-22
+date: 2025-03-22
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.

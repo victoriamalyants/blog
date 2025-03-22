@@ -98,5 +98,29 @@
 </description>
     </item>
     
+    <item>
+      <title>Прошедшая неделя</title>
+      <link>http://localhost:1313/post/post_1/</link>
+      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post_1/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#итоги-недели&#34;&gt;Итоги недели&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;итоги-недели&#34;&gt;Итоги недели&lt;/h2&gt;
+&lt;p&gt;Побывала на интересном мероприятии под названием ЧГД, виделась с друзьями, училась.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
