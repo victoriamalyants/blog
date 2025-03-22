@@ -1,7 +1,7 @@
 ---
 title: Управление версиями. Git.
 summary: 
-date: 2025-03-25
+date: 2025-03-22
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
