@@ -10,11 +10,15 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-03-25T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/academic/</loc>
+    <lastmod>2025-03-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/academic/</loc>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2025-03-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/git/</loc>
     <lastmod>2025-03-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -31,6 +35,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/post/post_1/</loc>
+    <lastmod>2025-03-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/post/get-started/</loc>
     <lastmod>2025-03-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

@@ -10,7 +10,7 @@ image:
 
 authors:
   - admin
-  - Ted
+  - Виктория Мальянц
 
 tags:
   - Academic
