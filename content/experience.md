@@ -33,3 +33,12 @@ sections:
       title: Languages
       username: admin
 ---
+
+experiences:
+  - title: Студент
+    company: Российский университет дружбы народов имени Патриса Лумумбы
+    location: Москва, Россия
+    date_start: 2024-09-01
+    date_end: 2028-07-01
+    summary: |
+      Направление: Компьютерные и информационные науки

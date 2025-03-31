@@ -1,7 +1,7 @@
 ---
 title: Прошедшая неделя
 summary: 
-date: 2025-03-22
+date: 2025-03-31
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -10,7 +10,7 @@ image:
 
 authors:
   - admin
-  - Ted
+  - Виктория Мальянц
 
 tags:
   - Academic
@@ -22,4 +22,4 @@ tags:
 
 ## Итоги недели
 
-Побывала на интересном мероприятии под названием ЧГД, виделась с друзьями, училась.
+Побывала на выставке и в музее криптографии, училась.

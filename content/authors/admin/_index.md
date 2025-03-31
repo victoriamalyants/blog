@@ -78,7 +78,6 @@ experiences:
     date_end: 2028-07-01
     summary: |
       Направление: Компьютерные и информационные науки
-      
 work:
   - position: 
     company_name: 
