@@ -2,57 +2,83 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog | Hugo Academic CV Theme</title>
-    <link>https://example.com/post/</link>
-      <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/post/</link>
+      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 31 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Blog</title>
-      <link>https://example.com/post/</link>
+      <link>http://localhost:1313/post/</link>
     </image>
     
     <item>
-      <title></title>
-      <link>https://example.com/post/post_4/</link>
-      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post_4/</guid>
+      <title>Прошедшая неделя</title>
+      <link>http://localhost:1313/post/post_4/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post_4/</guid>
       <description>
 
 
 &lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
   &lt;summary&gt;Table of Contents&lt;/summary&gt;
   &lt;div class=&#34;text-sm&#34;&gt;
-  &lt;nav id=&#34;TableOfContents&#34;&gt;&lt;/nav&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#итоги-недели&#34;&gt;Итоги недели&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
   &lt;/div&gt;
 &lt;/details&gt;
 
+&lt;h2 id=&#34;итоги-недели&#34;&gt;Итоги недели&lt;/h2&gt;
+&lt;p&gt;Посетила много интересных мест, училась, виделась с друзьями.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://example.com/post/post_5/</link>
-      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post_5/</guid>
+      <title>Создание презентаций</title>
+      <link>http://localhost:1313/post/post_5/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post_5/</guid>
       <description>
 
 
 &lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
   &lt;summary&gt;Table of Contents&lt;/summary&gt;
   &lt;div class=&#34;text-sm&#34;&gt;
-  &lt;nav id=&#34;TableOfContents&#34;&gt;&lt;/nav&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#введение&#34;&gt;Введение&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#ключевые-шаги&#34;&gt;Ключевые шаги&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#заключение&#34;&gt;Заключение&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
   &lt;/div&gt;
 &lt;/details&gt;
 
+&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
+&lt;p&gt;Создание эффективной презентации - это искусство, которое сочетает в себе визуальное оформление, структурированное содержание и уверенное выступление. В данном после хотела бы рассмотреть несколько ключевых шагов для успешного создания презентации.&lt;/p&gt;
+&lt;h2 id=&#34;ключевые-шаги&#34;&gt;Ключевые шаги&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Определите цели. Четко сформулируйте, что Вы хотите донести до аудитории.&lt;/li&gt;
+&lt;li&gt;Знайте свою аудиторию. Понимание интересов, потребностей и уровня знаний Вашей аудитории поможет адаптировать содержание и стиль презентации.&lt;/li&gt;
+&lt;li&gt;Структурируйте содержание. Начните с введения, задайте тон и представьте основные идеи. Далее перейдите к основной части, разделите информацию на логические блоки, используйте подзаголовки для ясности. Затем переход к этапу заключения, подведите итоги, повторите ключевые моменты и дайте рекомендации.&lt;/li&gt;
+&lt;li&gt;Дизайн слайдов. Используйте минималистичный стиль, избегайте перегруженности текстом и изображениями. Применяйте единый шрифт и цветовую палитру. Включайте графики и изображения для иллюстрации идей.&lt;/li&gt;
+&lt;li&gt;Подготовьте визуальные материалы.&lt;/li&gt;
+&lt;li&gt;Практика выступления. Репетируйте Вашу презентацию несколько раз для того, чтобы чувствовать себя увереннее и лучше управлять временем.&lt;/li&gt;
+&lt;li&gt;Обратная связь. После завершения презентации, попросите аудиторию задать вопросы или оставить комментарии. Это поможет улучшить Ваши навыки в будущем.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Следуя эти шагам, Вы сможете создать презентацию, которая будет не только инофрмативной, но и запоминающейся.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Прошедшая неделя</title>
-      <link>https://example.com/post/post_2/</link>
+      <link>http://localhost:1313/post/post_2/</link>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post_2/</guid>
+      <guid>http://localhost:1313/post/post_2/</guid>
       <description>
 
 
@@ -74,9 +100,9 @@
     
     <item>
       <title>Язык разметки Markdown</title>
-      <link>https://example.com/post/post_3/</link>
+      <link>http://localhost:1313/post/post_3/</link>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post_3/</guid>
+      <guid>http://localhost:1313/post/post_3/</guid>
       <description>
 
 
@@ -116,9 +142,9 @@
     
     <item>
       <title>Прошедшая неделя</title>
-      <link>https://example.com/post/post_1/</link>
+      <link>http://localhost:1313/post/post_1/</link>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post_1/</guid>
+      <guid>http://localhost:1313/post/post_1/</guid>
       <description>
 
 
@@ -140,9 +166,9 @@
     
     <item>
       <title>Управление версиями. Git.</title>
-      <link>https://example.com/post/get-started/</link>
+      <link>http://localhost:1313/post/get-started/</link>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/get-started/</guid>
+      <guid>http://localhost:1313/post/get-started/</guid>
       <description>
 
 
@@ -183,9 +209,9 @@
     
     <item>
       <title>🧠 Sharpen your thinking with a second brain</title>
-      <link>https://example.com/post/second-brain/</link>
+      <link>http://localhost:1313/post/second-brain/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/second-brain/</guid>
+      <guid>http://localhost:1313/post/second-brain/</guid>
       <description>&lt;p&gt;Create a personal knowledge base and share your knowledge with your peers.&lt;/p&gt;
 &lt;p&gt;Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p&gt;
 &lt;p&gt;Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p&gt;
@@ -295,9 +321,9 @@
     
     <item>
       <title>📈 Communicate your results effectively with the best data visualizations</title>
-      <link>https://example.com/post/data-visualization/</link>
+      <link>http://localhost:1313/post/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/data-visualization/</guid>
+      <guid>http://localhost:1313/post/data-visualization/</guid>
       <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
 &lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
@@ -308,7 +334,7 @@
 
 
 
-&lt;div id=&#34;chart-843952167&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-583621794&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -326,7 +352,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-843952167&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-583621794&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -505,9 +531,9 @@ Crash --&gt; [*]
     
     <item>
       <title>👩🏼‍🏫 Teach academic courses</title>
-      <link>https://example.com/post/teach-courses/</link>
+      <link>http://localhost:1313/post/teach-courses/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/teach-courses/</guid>
+      <guid>http://localhost:1313/post/teach-courses/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -556,7 +582,7 @@ Crash --&gt; [*]
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;https://example.com/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -615,9 +641,9 @@ data.head()
     
     <item>
       <title>✅ Manage your projects</title>
-      <link>https://example.com/post/project-management/</link>
+      <link>http://localhost:1313/post/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/project-management/</guid>
+      <guid>http://localhost:1313/post/project-management/</guid>
       <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
