@@ -33,18 +33,22 @@ profiles:
   - icon: at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
+    url: https://github.com/victoriamalyants/
+  - icon: brands/etsy
+    url: https://www.elibrary.ru/project_user_office.asp
+  - icon: brands/scholar
     url: https://scholar.google.com/
-  - icon: academicons/orcid
+  - icon: brands/orcid
     url: https://orcid.org/
+  - icon: brands/mendeley
+    url: https://www.mendeley.com/search/
+  - icon: brands/research
+    url: https://www.researchgate.net/profile/Victoria-Malyants?ev=hdr_xprf&_sg=zOckUtlT8WNSJMwCj5zyGOLwQ1iS38ozCWAAH07ZYjiVniNCA8MuFkqLCRWi-SULK7v0ZGj34dCKZjgQOeNBNiJs&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImxvZ2luIiwicGFnZSI6ImhvbWUiLCJwcmV2aW91c1BhZ2UiOiJsb2dpbiIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19
+  - icon: brands/academia
+    url: https://www.academia.edu/
+  - icon: brands/arxiv
+    url: https://arxiv.org/user/
 
 interests:
   - Изучение языков программирования

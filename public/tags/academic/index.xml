@@ -2,21 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/tags/academic/</link>
-      <atom:link href="http://localhost:1313/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/tags/academic/</link>
+      <atom:link href="https://example.com/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 31 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
       <title>Academic</title>
-      <link>http://localhost:1313/tags/academic/</link>
+      <link>https://example.com/tags/academic/</link>
     </image>
     
     <item>
-      <title>Прошедшая неделя</title>
-      <link>http://localhost:1313/post/post_2/</link>
+      <title></title>
+      <link>https://example.com/post/post_4/</link>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post_2/</guid>
+      <guid>https://example.com/post/post_4/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/post/post_5/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post_5/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Прошедшая неделя</title>
+      <link>https://example.com/post/post_2/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post_2/</guid>
       <description>
 
 
@@ -38,9 +74,9 @@
     
     <item>
       <title>Язык разметки Markdown</title>
-      <link>http://localhost:1313/post/post_3/</link>
+      <link>https://example.com/post/post_3/</link>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post_3/</guid>
+      <guid>https://example.com/post/post_3/</guid>
       <description>
 
 
@@ -80,9 +116,9 @@
     
     <item>
       <title>Прошедшая неделя</title>
-      <link>http://localhost:1313/post/post_1/</link>
+      <link>https://example.com/post/post_1/</link>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post_1/</guid>
+      <guid>https://example.com/post/post_1/</guid>
       <description>
 
 
@@ -104,9 +140,9 @@
     
     <item>
       <title>Управление версиями. Git.</title>
-      <link>http://localhost:1313/post/get-started/</link>
+      <link>https://example.com/post/get-started/</link>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/get-started/</guid>
+      <guid>https://example.com/post/get-started/</guid>
       <description>
 
 
