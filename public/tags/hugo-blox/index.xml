@@ -5,12 +5,73 @@
     <link>http://localhost:1313/tags/hugo-blox/</link>
       <atom:link href="http://localhost:1313/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo Blox</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 10 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Hugo Blox</title>
       <link>http://localhost:1313/tags/hugo-blox/</link>
     </image>
+    
+    <item>
+      <title>Прошедшая неделя</title>
+      <link>http://localhost:1313/post/post_6/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post_6/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#итоги-недели&#34;&gt;Итоги недели&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;итоги-недели&#34;&gt;Итоги недели&lt;/h2&gt;
+&lt;p&gt;Училась, посещала интересные места. Виделась с друзьями.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>http://localhost:1313/post/post_7/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post_7/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#введение&#34;&gt;Введение&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#наиболее-популярные-языки-научного-программирования&#34;&gt;Наиболее популярные языки научного программирования&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#заключение&#34;&gt;Заключение&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
+&lt;p&gt;Научное программирование - это область, которая требует не только глубоких знаний в математике и статистике, но и умения эффективно использовать программные инструменты для решения сложных задач. Существует множество языков программирования, которые могут быть использованы в научных исследованиях.&lt;/p&gt;
+&lt;h2 id=&#34;наиболее-популярные-языки-научного-программирования&#34;&gt;Наиболее популярные языки научного программирования&lt;/h2&gt;
+&lt;p&gt;Давайте рассмотрим наиболее популярные языки научного программирования:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Python. Стал одним из самых популярных языков в научном программировании блягодаря своей простоте и читаемости.&lt;/li&gt;
+&lt;li&gt;R. Язык, специально разработанный для статистической обработки и визуализации данных.&lt;/li&gt;
+&lt;li&gt;MATLAB. Язык программирования и среда разработки, особенно популярная в инженерных и научных кругах.&lt;/li&gt;
+&lt;li&gt;Julia. Относительно новый язык программирования, который быстро завоевывает популярность среди научных программистов благодаря своей высокой производительности и простоте использования.&lt;/li&gt;
+&lt;li&gt;Fortran. Один из старейших языков программирования, который до сих пор используется в научных вычислениях, особенно в области физики и инженерии.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Выбор языка программирования для научных исследований зависит от конкретных задач и предпочтений исследователя. Python и R являются отличными вариантами для анализа данных и статистики, в то время как MATLAB и Julia подходят для более слодных вычислений. Fortran может быть предпочтительным для высокопроизводительных вычислений в определенных областях.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Прошедшая неделя</title>
@@ -179,7 +240,7 @@
 
 
 
-&lt;div id=&#34;chart-583621794&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-963728154&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -197,7 +258,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-583621794&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-963728154&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
