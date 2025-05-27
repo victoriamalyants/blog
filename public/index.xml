@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Academic CV Theme</title>
+    <title>Мальянц В. К.</title>
     <link>http://localhost:1313/</link>
       <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <description>Hugo Academic CV Theme</description>
+    <description>Мальянц В. К.</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
-      <title>Hugo Academic CV Theme</title>
+      <title>Мальянц В. К.</title>
       <link>http://localhost:1313/</link>
     </image>
     
@@ -34,6 +34,51 @@
     </item>
     
     <item>
+      <title>C&#43;&#43; programming language</title>
+      <link>http://localhost:1313/post/post_9/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post_9/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#introduction&#34;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#key-features-of-c&#34;&gt;Key Features of C++&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#applications-of-c&#34;&gt;Applications of C++&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#conclusion&#34;&gt;Conclusion&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;C++ is a powerful and versatile programming language that was developed in the early 1980s. It was created as an extension of the C language, adding object-oriented features to it, making it one of the most popular languages ​​for developing complex software systems.&lt;/p&gt;
+&lt;h2 id=&#34;key-features-of-c&#34;&gt;Key Features of C++&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Object-Oriented Programming&lt;/li&gt;
+&lt;li&gt;Portability&lt;/li&gt;
+&lt;li&gt;Performance&lt;/li&gt;
+&lt;li&gt;Standard Library&lt;/li&gt;
+&lt;li&gt;Templates and Generic Programming&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;applications-of-c&#34;&gt;Applications of C++&lt;/h2&gt;
+&lt;p&gt;C++ is used in a wide variety of areas, including:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Game Development&lt;/li&gt;
+&lt;li&gt;Systems Programming&lt;/li&gt;
+&lt;li&gt;Financial Applications&lt;/li&gt;
+&lt;li&gt;Scientific Computing&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;C++ is a language that continues to be relevant and in demand in the programming world.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>GitHub</title>
       <link>http://localhost:1313/project/github/</link>
       <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
@@ -42,7 +87,7 @@
     </item>
     
     <item>
-      <title>Прошедшая неделя</title>
+      <title>Last week</title>
       <link>http://localhost:1313/post/post_6/</link>
       <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/post_6/</guid>
@@ -54,19 +99,43 @@
   &lt;div class=&#34;text-sm&#34;&gt;
   &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#итоги-недели&#34;&gt;Итоги недели&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#weekly-summary&#34;&gt;Weekly summary&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
   &lt;/div&gt;
 &lt;/details&gt;
 
-&lt;h2 id=&#34;итоги-недели&#34;&gt;Итоги недели&lt;/h2&gt;
-&lt;p&gt;Училась, посещала интересные места. Виделась с друзьями.&lt;/p&gt;
+&lt;h2 id=&#34;weekly-summary&#34;&gt;Weekly summary&lt;/h2&gt;
+&lt;p&gt;Studied, visited interesting places. Saw friends.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Языки научного программирования</title>
+      <title>Last week</title>
+      <link>http://localhost:1313/post/post_8/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post_8/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#weekly-summary&#34;&gt;Weekly summary&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;weekly-summary&#34;&gt;Weekly summary&lt;/h2&gt;
+&lt;p&gt;I studied, started reading a new book, visited interesting places, talked with friends.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific programming languages</title>
       <link>http://localhost:1313/post/post_7/</link>
       <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/post_7/</guid>
@@ -78,56 +147,32 @@
   &lt;div class=&#34;text-sm&#34;&gt;
   &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#введение&#34;&gt;Введение&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#наиболее-популярные-языки-научного-программирования&#34;&gt;Наиболее популярные языки научного программирования&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#заключение&#34;&gt;Заключение&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#introduction&#34;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#most-popular-scientific-programming-languages&#34;&gt;Most Popular Scientific Programming Languages&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#conclusion&#34;&gt;Conclusion&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
   &lt;/div&gt;
 &lt;/details&gt;
 
-&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
-&lt;p&gt;Научное программирование - это область, которая требует не только глубоких знаний в математике и статистике, но и умения эффективно использовать программные инструменты для решения сложных задач. Существует множество языков программирования, которые могут быть использованы в научных исследованиях.&lt;/p&gt;
-&lt;h2 id=&#34;наиболее-популярные-языки-научного-программирования&#34;&gt;Наиболее популярные языки научного программирования&lt;/h2&gt;
-&lt;p&gt;Давайте рассмотрим наиболее популярные языки научного программирования:&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Scientific programming is a field that requires not only deep knowledge of mathematics and statistics, but also the ability to effectively use software tools to solve complex problems. There are many programming languages ​​that can be used in scientific research.&lt;/p&gt;
+&lt;h2 id=&#34;most-popular-scientific-programming-languages&#34;&gt;Most Popular Scientific Programming Languages&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s take a look at the most popular scientific programming languages:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Python. Стал одним из самых популярных языков в научном программировании блягодаря своей простоте и читаемости.&lt;/li&gt;
-&lt;li&gt;R. Язык, специально разработанный для статистической обработки и визуализации данных.&lt;/li&gt;
-&lt;li&gt;MATLAB. Язык программирования и среда разработки, особенно популярная в инженерных и научных кругах.&lt;/li&gt;
-&lt;li&gt;Julia. Относительно новый язык программирования, который быстро завоевывает популярность среди научных программистов благодаря своей высокой производительности и простоте использования.&lt;/li&gt;
-&lt;li&gt;Fortran. Один из старейших языков программирования, который до сих пор используется в научных вычислениях, особенно в области физики и инженерии.&lt;/li&gt;
+&lt;li&gt;Python. It has become one of the most popular languages ​​in scientific programming due to its simplicity and readability.&lt;/li&gt;
+&lt;li&gt;R. A language specifically designed for statistical processing and data visualization.&lt;/li&gt;
+&lt;li&gt;MATLAB. A programming language and development environment, especially popular in engineering and scientific circles.&lt;/li&gt;
+&lt;li&gt;Julia. A relatively new programming language that is quickly gaining popularity among scientific programmers due to its high performance and ease of use.&lt;/li&gt;
+&lt;li&gt;Fortran. One of the oldest programming languages ​​that is still used in scientific computing, especially in the fields of physics and engineering.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
-&lt;p&gt;Выбор языка программирования для научных исследований зависит от конкретных задач и предпочтений исследователя. Python и R являются отличными вариантами для анализа данных и статистики, в то время как MATLAB и Julia подходят для более слодных вычислений. Fortran может быть предпочтительным для высокопроизводительных вычислений в определенных областях.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;The choice of programming language for scientific research depends on the specific tasks and preferences of the researcher. Python and R are excellent options for data analysis and statistics, while MATLAB and Julia are suitable for more complex calculations. Fortran may be preferred for high-performance computing in certain areas.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Прошедшая неделя</title>
-      <link>http://localhost:1313/post/post_4/</link>
-      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post_4/</guid>
-      <description>
-
-
-&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
-  &lt;summary&gt;Table of Contents&lt;/summary&gt;
-  &lt;div class=&#34;text-sm&#34;&gt;
-  &lt;nav id=&#34;TableOfContents&#34;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#итоги-недели&#34;&gt;Итоги недели&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/nav&gt;
-  &lt;/div&gt;
-&lt;/details&gt;
-
-&lt;h2 id=&#34;итоги-недели&#34;&gt;Итоги недели&lt;/h2&gt;
-&lt;p&gt;Посетила много интересных мест, училась, виделась с друзьями.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Создание презентаций</title>
+      <title>Creating presentations</title>
       <link>http://localhost:1313/post/post_5/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/post_5/</guid>
@@ -139,33 +184,57 @@
   &lt;div class=&#34;text-sm&#34;&gt;
   &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#введение&#34;&gt;Введение&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#ключевые-шаги&#34;&gt;Ключевые шаги&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#заключение&#34;&gt;Заключение&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#introduction&#34;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#key-steps&#34;&gt;Key Steps&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#conclusion&#34;&gt;Conclusion&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
   &lt;/div&gt;
 &lt;/details&gt;
 
-&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
-&lt;p&gt;Создание эффективной презентации - это искусство, которое сочетает в себе визуальное оформление, структурированное содержание и уверенное выступление. В данном после хотела бы рассмотреть несколько ключевых шагов для успешного создания презентации.&lt;/p&gt;
-&lt;h2 id=&#34;ключевые-шаги&#34;&gt;Ключевые шаги&lt;/h2&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Creating an effective presentation is an art that combines visual design, structured content and confident delivery. In this post I would like to consider several key steps for creating a successful presentation.&lt;/p&gt;
+&lt;h2 id=&#34;key-steps&#34;&gt;Key Steps&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;Определите цели. Четко сформулируйте, что Вы хотите донести до аудитории.&lt;/li&gt;
-&lt;li&gt;Знайте свою аудиторию. Понимание интересов, потребностей и уровня знаний Вашей аудитории поможет адаптировать содержание и стиль презентации.&lt;/li&gt;
-&lt;li&gt;Структурируйте содержание. Начните с введения, задайте тон и представьте основные идеи. Далее перейдите к основной части, разделите информацию на логические блоки, используйте подзаголовки для ясности. Затем переход к этапу заключения, подведите итоги, повторите ключевые моменты и дайте рекомендации.&lt;/li&gt;
-&lt;li&gt;Дизайн слайдов. Используйте минималистичный стиль, избегайте перегруженности текстом и изображениями. Применяйте единый шрифт и цветовую палитру. Включайте графики и изображения для иллюстрации идей.&lt;/li&gt;
-&lt;li&gt;Подготовьте визуальные материалы.&lt;/li&gt;
-&lt;li&gt;Практика выступления. Репетируйте Вашу презентацию несколько раз для того, чтобы чувствовать себя увереннее и лучше управлять временем.&lt;/li&gt;
-&lt;li&gt;Обратная связь. После завершения презентации, попросите аудиторию задать вопросы или оставить комментарии. Это поможет улучшить Ваши навыки в будущем.&lt;/li&gt;
+&lt;li&gt;Define your objectives. Clearly formulate what you want to convey to your audience.&lt;/li&gt;
+&lt;li&gt;Know your audience. Understanding your audience’s interests, needs, and level of knowledge will help you tailor the content and style of your presentation.&lt;/li&gt;
+&lt;li&gt;Structure your content. Start with an introduction, set the tone, and present the main ideas. Next, move on to the main body, divide the information into logical blocks, and use subheadings for clarity. Then move on to the conclusion stage, summarize, reiterate key points, and provide recommendations.&lt;/li&gt;
+&lt;li&gt;Design slides. Use a minimalist style, avoid overloading with text and images. Use a single font and color palette. Include graphics and images to illustrate ideas.&lt;/li&gt;
+&lt;li&gt;Prepare visuals.&lt;/li&gt;
+&lt;li&gt;Practice your presentation. Rehearse your presentation several times to feel more confident and manage your time better.&lt;/li&gt;
+&lt;li&gt;Feedback. After you finish your presentation, ask your audience for questions or comments. This will help improve your skills in the future.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
-&lt;p&gt;Следуя эти шагам, Вы сможете создать презентацию, которая будет не только инофрмативной, но и запоминающейся.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;By following these steps, you will be able to create a presentation that is not only informative, but also memorable.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Прошедшая неделя</title>
+      <title>Last week</title>
+      <link>http://localhost:1313/post/post_4/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post_4/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#weekly-summary&#34;&gt;Weekly summary&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;weekly-summary&#34;&gt;Weekly summary&lt;/h2&gt;
+&lt;p&gt;Visited many interesting places, studied, saw friends.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last week</title>
       <link>http://localhost:1313/post/post_2/</link>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/post_2/</guid>
@@ -177,19 +246,19 @@
   &lt;div class=&#34;text-sm&#34;&gt;
   &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#итоги-недели&#34;&gt;Итоги недели&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#weekly-summary&#34;&gt;Weekly summary&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
   &lt;/div&gt;
 &lt;/details&gt;
 
-&lt;h2 id=&#34;итоги-недели&#34;&gt;Итоги недели&lt;/h2&gt;
-&lt;p&gt;Побывала на выставке и в музее криптографии, училась.&lt;/p&gt;
+&lt;h2 id=&#34;weekly-summary&#34;&gt;Weekly summary&lt;/h2&gt;
+&lt;p&gt;I visited the exhibition and the cryptography museum, studied.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Язык разметки Markdown</title>
+      <title>Markdown markup language</title>
       <link>http://localhost:1313/post/post_3/</link>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/post_3/</guid>
@@ -203,35 +272,35 @@
   &lt;/div&gt;
 &lt;/details&gt;
 
-&lt;h1 id=&#34;введение&#34;&gt;Введение&lt;/h1&gt;
-&lt;p&gt;Markdown - это легковесный язык разметки, который был создан в 2004 году Джоном Грубером с целью облегчить процесс написания и форматирования текста.&lt;/p&gt;
-&lt;h1 id=&#34;что-такое-markdown&#34;&gt;Что такое Markdown&lt;/h1&gt;
-&lt;p&gt;Markdown - это текстовый формат, который позволяет добавлять разметку к простому тексту, чтобы преобразовать его в HTML. Можно легко создавать форматированный текст, используя просстые символы и конструкции, без необходимости погружаться в сложные теги HTML.&lt;/p&gt;
-&lt;h1 id=&#34;основные-элементы-markdown&#34;&gt;Основные элементы Markdown&lt;/h1&gt;
-&lt;p&gt;К основным элементам Markdown относят:&lt;/p&gt;
+&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;Markdown is a lightweight markup language that was created in 2004 by John Gruber to make it easier to write and format text.&lt;/p&gt;
+&lt;h1 id=&#34;what-is-markdown&#34;&gt;What is Markdown&lt;/h1&gt;
+&lt;p&gt;Markdown is a text format that allows you to add markup to plain text to convert it into HTML. You can easily create formatted text using simple symbols and constructs, without having to delve into complex HTML tags.&lt;/p&gt;
+&lt;h1 id=&#34;basic-markdown-elements&#34;&gt;Basic Markdown Elements&lt;/h1&gt;
+&lt;p&gt;The basic Markdown elements include:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Заголовки&lt;/li&gt;
-&lt;li&gt;Выделение текста&lt;/li&gt;
-&lt;li&gt;Ссылки&lt;/li&gt;
-&lt;li&gt;Списки&lt;/li&gt;
-&lt;li&gt;Изображения&lt;/li&gt;
-&lt;li&gt;Код&lt;/li&gt;
+&lt;li&gt;Headings&lt;/li&gt;
+&lt;li&gt;Text Emphasis&lt;/li&gt;
+&lt;li&gt;Links&lt;/li&gt;
+&lt;li&gt;Lists&lt;/li&gt;
+&lt;li&gt;Images&lt;/li&gt;
+&lt;li&gt;Code&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h1 id=&#34;преимущества-markdown&#34;&gt;Преимущества Markdown&lt;/h1&gt;
-&lt;p&gt;К преимуществам Makrdown относят:&lt;/p&gt;
+&lt;h1 id=&#34;advantages-of-markdown&#34;&gt;Advantages of Markdown&lt;/h1&gt;
+&lt;p&gt;The advantages of Markdown include:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Простота&lt;/li&gt;
-&lt;li&gt;Кросс-платформенность&lt;/li&gt;
-&lt;li&gt;Читаемость&lt;/li&gt;
-&lt;li&gt;Конвертация&lt;/li&gt;
+&lt;li&gt;Simplicity&lt;/li&gt;
+&lt;li&gt;Cross-platform&lt;/li&gt;
+&lt;li&gt;Readability&lt;/li&gt;
+&lt;li&gt;Conversion&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h1 id=&#34;итоги&#34;&gt;Итоги&lt;/h1&gt;
-&lt;p&gt;Markdown - это мощный инструмент для тех, кто хочет быстро и эффективно создавать форматированный текст. Благодаря своей простоте и универсальности, он стал стандартом для многих разработчиков и авторов контента.&lt;/p&gt;
+&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;/h1&gt;
+&lt;p&gt;Markdown is a powerful tool for those who want to quickly and efficiently create formatted text. Due to its simplicity and versatility, it has become the standard for many developers and content authors.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Прошедшая неделя</title>
+      <title>Last week</title>
       <link>http://localhost:1313/post/post_1/</link>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/post_1/</guid>
@@ -243,19 +312,19 @@
   &lt;div class=&#34;text-sm&#34;&gt;
   &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#итоги-недели&#34;&gt;Итоги недели&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#weekly-summary&#34;&gt;Weekly summary&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
   &lt;/div&gt;
 &lt;/details&gt;
 
-&lt;h2 id=&#34;итоги-недели&#34;&gt;Итоги недели&lt;/h2&gt;
-&lt;p&gt;Побывала на интересном мероприятии под названием ЧГД, виделась с друзьями, училась.&lt;/p&gt;
+&lt;h2 id=&#34;weekly-summary&#34;&gt;Weekly summary&lt;/h2&gt;
+&lt;p&gt;I attended an interesting event called ChGD, saw friends, studied.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Управление версиями. Git.</title>
+      <title>Version control. Git.</title>
       <link>http://localhost:1313/post/get-started/</link>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/get-started/</guid>
@@ -269,31 +338,31 @@
   &lt;/div&gt;
 &lt;/details&gt;
 
-&lt;h1 id=&#34;введение&#34;&gt;Введение&lt;/h1&gt;
-&lt;p&gt;В этом посте мы рассмотрим, что такое Git, его основные функции и преимущества, а также некоторые ключевые концепции.&lt;/p&gt;
-&lt;h1 id=&#34;что-такое-git&#34;&gt;Что такое Git&lt;/h1&gt;
-&lt;p&gt;Git - это распределенная система управления версиями, созданная для отслеживания изменений в коде и совместной работы над проектами. Помогает разработчиками сохранять различные версии своих файлов, тем самым упрощает процесс разработки и позволяет возвращаться к предыдущим версиям проекта.&lt;/p&gt;
-&lt;h1 id=&#34;основные-функции-git&#34;&gt;Основные функции Git&lt;/h1&gt;
+&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;In this post, we&amp;rsquo;ll look at what Git is, its main features and benefits, and some key concepts.&lt;/p&gt;
+&lt;h1 id=&#34;what-is-git&#34;&gt;What is Git&lt;/h1&gt;
+&lt;p&gt;Git is a distributed version control system designed to track changes in code and collaborate on projects. It helps developers save different versions of their files, thereby simplifying the development process and allowing them to return to previous versions of the project.&lt;/p&gt;
+&lt;h1 id=&#34;basic-git-functions&#34;&gt;Basic Git Functions&lt;/h1&gt;
 &lt;ol&gt;
-&lt;li&gt;Отслеживание изменений&lt;/li&gt;
-&lt;li&gt;Ветвление и слияние&lt;/li&gt;
-&lt;li&gt;История изменений&lt;/li&gt;
-&lt;li&gt;Сотрудничество&lt;/li&gt;
+&lt;li&gt;Tracking Changes&lt;/li&gt;
+&lt;li&gt;Branching and Merging&lt;/li&gt;
+&lt;li&gt;Change History&lt;/li&gt;
+&lt;li&gt;Collaboration&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h1 id=&#34;преимущества-использования-git&#34;&gt;Преимущества использования Git&lt;/h1&gt;
+&lt;h1 id=&#34;benefits-of-using-git&#34;&gt;Benefits of Using Git&lt;/h1&gt;
 &lt;ol&gt;
-&lt;li&gt;Производительность&lt;/li&gt;
-&lt;li&gt;Безопасность&lt;/li&gt;
-&lt;li&gt;Гибкость&lt;/li&gt;
+&lt;li&gt;Performance&lt;/li&gt;
+&lt;li&gt;Security&lt;/li&gt;
+&lt;li&gt;Flexibility&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h1 id=&#34;ключевые-концепции-git&#34;&gt;Ключевые концепции Git&lt;/h1&gt;
+&lt;h1 id=&#34;key-concepts-of-git&#34;&gt;Key Concepts of Git&lt;/h1&gt;
 &lt;ol&gt;
-&lt;li&gt;Коммит&lt;/li&gt;
-&lt;li&gt;Слияние&lt;/li&gt;
-&lt;li&gt;Ветка&lt;/li&gt;
+&lt;li&gt;Commit&lt;/li&gt;
+&lt;li&gt;Merge&lt;/li&gt;
+&lt;li&gt;Branch&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h1 id=&#34;заключение&#34;&gt;Заключение&lt;/h1&gt;
-&lt;p&gt;Git - инструмент для управления версиями, который значительно упрощает процесс разработки и совместной работы. Вне зависимости от того, работаете индивидуально или в команде, освоение Git поможет Вам эффективнее управлять своими проектами и отслеживать изменения в коде.&lt;/p&gt;
+&lt;h1 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h1&gt;
+&lt;p&gt;Git is a version control tool that greatly simplifies the development and collaboration process. Whether you work individually or in a team, mastering Git will help you manage your projects more effectively and track changes in your code.&lt;/p&gt;
 </description>
     </item>
     
@@ -432,7 +501,7 @@
 
 
 
-&lt;div id=&#34;chart-963728154&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-274685391&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -450,7 +519,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-963728154&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-274685391&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
